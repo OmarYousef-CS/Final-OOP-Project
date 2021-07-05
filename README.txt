@@ -4,11 +4,11 @@ War Of Empires
 
 
 Student Info:
-name : Marwan Taha (marwanta)
+name : Marwan Taha 
 ID: #########
-name : Hassan Yousif (hassanyo)
+name : Hassan Yousif 
 ID: #########
-name : Omar Yousif (omaryo)
+name : Omar Yousif 
 ID: #########
 
 
